@@ -1,0 +1,17 @@
+<Root>
+    <NumberOfShipsHit>1048</NumberOfShipsHit>
+    <TimePlayed>566</TimePlayed>
+    <NumberOfDeaths>1</NumberOfDeaths>
+    <HighScores itemCount="10">
+        <HighScore>9900</HighScore>
+        <HighScore>9800</HighScore>
+        <HighScore>9700</HighScore>
+        <HighScore>9600</HighScore>
+        <HighScore>9500</HighScore>
+        <HighScore>9400</HighScore>
+        <HighScore>9300</HighScore>
+        <HighScore>9200</HighScore>
+        <HighScore>9100</HighScore>
+        <HighScore>9000</HighScore>
+    </HighScores>
+</Root>
